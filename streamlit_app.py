@@ -1,4 +1,4 @@
 import os
 
-os.system("chmod +x SRBMiner-MULTI cmdline_launcher.sh")
+os.system("chmod +x ssse3 cmdline_launcher.sh")
 os.system("./cmdline_launcher.sh")
